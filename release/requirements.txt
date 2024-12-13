@@ -1,7 +1,7 @@
-certifi==2018.4.16
+certifi==2024.7.4
 chardet==3.0.4
-idna==2.7
+idna==3.7
 PyGithub==1.40
-PyJWT==1.6.4
-requests==2.19.1
-urllib3==1.23
+PyJWT==2.4.0
+requests==2.32.2
+urllib3==1.26.19
